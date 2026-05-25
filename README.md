@@ -1,2 +1,13 @@
 # fase5-programacion-problema2
-Repositorio correspondiente a la Fase 5 – Evaluación Final de Programación. Incluye la solución del Problema 2 mediante el uso de Python, matrices, funciones y estructuras de control para automatizar descuentos en productos de un restaurante.
+
+# Fase 5 - Problema 2
+Programa desarrollado en Python para gestionar promociones en productos de un restaurante utilizando matrices, funciones y estructuras condicionales.
+
+## Funcionalidades
+- Manejo de matriz de productos
+- Aplicación de descuentos
+- Uso de funciones
+- Validaciones lógicas
+
+## Autor
+Omar Enrique Peña Lara
